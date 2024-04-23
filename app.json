@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "myfitness",
+    "slug": "snack-443e04ba-9b5b-4e16-8f30-ded1c46debcb",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.rupace.snack443e04ba9b5b4e168f30ded1c46debcb"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0c6eb94d-5a48-4d77-a7ff-f056ab5a3bc8"
+      }
+    }
+  }
+}
